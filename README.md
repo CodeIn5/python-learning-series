@@ -1,2 +1,3 @@
-# python-learning-series
-A structured series of Python learning materials designed to enhance programming proficiency and conceptual understanding.
+## License
+This repository is licensed under the [Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+You may clone or fork this repository for personal learning purposes only. Redistribution, modification, or commercial use is not permitted.
